@@ -1,3 +1,5 @@
+package project1;
+
 public class UnitConverter {
   public static final double metersPerFoot = 0.3048;
 	public static final double degreesPerRadian = 180 / Math.PI;
