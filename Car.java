@@ -1,3 +1,5 @@
+package project1;
+
 public class Car {
 	public double tripDistanceFeet;
 
